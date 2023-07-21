@@ -16,4 +16,4 @@ int main(){
 	printf("Summation=%d\n",sum);
 	printf("Mean=%.2f\n",avg);
 	return 0;
-}
+
